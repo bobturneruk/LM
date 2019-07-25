@@ -1,0 +1,24 @@
+1: intensity
+2: x position
+3: x width
+4: y position
+5: y width
+6: local background
+7: frame number
+8: piezo position at capture
+9: z position
+10: emitter identifier
+11: deepfield step number
+12: deepfield z position
+13: normailsed residual of fit
+14: curve fit exit flag
+15: candidate (bright pixel) x position
+16: candidate (bright pixel) y position
+17: nearest neighbor (2D) in nm
+18: nearest neighbor (3D) in nm
+19: x position relative to cutout
+20: y position relative to cutout
+21: Channel
+22: Corrected x position
+23: Empty
+24: Corrected y position
