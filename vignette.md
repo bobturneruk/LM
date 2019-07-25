@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This vignette will walk through using *LM* to reconstruct some freely available simulated data which should be downloaded and unzipped from [http://bigwww.epfl.ch/smlm/challenge2013/datasets/Tubulins_I/index.html](EPFL).
+This vignette will walk through using *LM* to reconstruct some freely available simulated data which should be downloaded and unzipped from [EPFL](http://bigwww.epfl.ch/smlm/challenge2013/datasets/Tubulins_I/index.html).
 
 ## Running the scripts
 
