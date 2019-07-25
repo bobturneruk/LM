@@ -4,6 +4,6 @@
 
 The version of the code here is a subset of that held on [https://figshare.shef.ac.uk/articles/LM_Localisation_Microscopy_Matlab/5831208](figshare) in relation to our [https://elifesciences.org/articles/32057](paper) on *Staphylococcus aureus* cell division. My intention is that it makes it easier to navigate the core functionality of the software.
 
-To run the software have a look at this [vignette.md](vignette).
+To run the software have a look at this [./vignette.md](vignette).
 
 To read about how it works look at the [](concept of operation).
