@@ -27,9 +27,9 @@ Next, we must specify the settings to use for the reconstruction. The easiest wa
 myreconset=LM_dlgreconset();
 ```
 
-![Reconstruction Settings Dialog](reconset_dialog.png "Reconstruction Settings Dialog")
-
 This image shows sensible settings to use for the EPFL data - data from other sources will almost certainly need different settings.
+
+![Reconstruction Settings Dialog](reconset_dialog.png "Reconstruction Settings Dialog")
 
 ### Reconstruct
 
@@ -46,3 +46,7 @@ To see the reconstructed data as a Matlab figure, we call the LM_PrettyRender fu
 ```
 imshow(LM_PrettyRender(loc,150,10),[0,1500]);
 ```
+
+You should see something like this:
+
+![Reconstructed Image](reconstruction_eg.png "Reconstructed Image")
